@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'VCR OSD Mono';
+    src: url('/fonts/VCR_OSD_Mono.ttf') format('truetype');
+    font-display: swap;
+}
